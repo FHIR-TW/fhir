@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.w3.org/1999/xhtml ../../schema/fhir-xhtml.xsd">
+
+These examples illustrate the use of the ActivityDefinition resource to represent activities on various artifacts includes a Suicide Risk Assessment Order Set, and a Zika Virus Infection Management workflow.
+
+</div>
