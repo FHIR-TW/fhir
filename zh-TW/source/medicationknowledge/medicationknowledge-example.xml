@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MedicationKnowledge xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://hl7.org/fhir" xsi:schemaLocation="http://hl7.org/fhir ../../schema/medicationknowledge.xsd">
+  <id value="example"/>
+  <code>
+    <coding>
+      <system value="http://hl7.org/fhir/sid/ndc"/>
+      <code value="0409-6531-02"/>
+      <!-- <display value="Vancomycin Hydrochloride (VANCOMYCIN HYDROCHLORIDE)"/> -->
+    </coding>
+    <text value="Vancomycin Hydrochloride (VANCOMYCIN HYDROCHLORIDE)"/>
+  </code>
+  <status value="active"/>
+  <name value="Vancomycin Hydrochloride (VANCOMYCIN HYDROCHLORIDE)"/>
+  <definitional>
+    <doseForm>
+      <coding>
+        <system value="http://snomed.info/sct"/>
+        <code value="385268001"/>
+        <display value="Oral Dose Form (qualifier value)"/>
+      </coding>
+    </doseForm>
+  </definitional>
+</MedicationKnowledge>
