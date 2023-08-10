@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.w3.org/1999/xhtml ../../schema/fhir-xhtml.xsd">
+
+<!-- insert xhtml content here -->
+    <p>
+        <b>Notes to reviewers:</b>
+    </p>
+    <p>
+        <i>At this time, the code bindings are placeholders to be fleshed out upon further review by the community.</i>
+    </p>
+</div>
