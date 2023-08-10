@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.w3.org/1999/xhtml ../../schema/fhir-xhtml.xsd">
+
+<div>
+<a name="scope"/>
+<h2>Scope and Usage</h2>
+<p>
+Implementers should be familiar with the messaging concepts and descriptions found in <a href="messaging.html">Messaging using FHIR Resources</a> before working with this resource.
+</p>
+</div>
+
+</div>
