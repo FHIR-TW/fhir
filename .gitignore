@@ -12,7 +12,7 @@ holder.txt
 /schema/datatypes
 /implementations/javascript/app
 .gitignore
-
+crowdin.yml
 # Compiled class file
 *.class
 
