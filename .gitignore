@@ -13,6 +13,7 @@ holder.txt
 /implementations/javascript/app
 .gitignore
 crowdin.yml
+/zh-TW/
 # Compiled class file
 *.class
 
